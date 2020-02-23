@@ -7,4 +7,4 @@ Pagination to data using php
 
 Tutorial reference : https://www.webslesson.info/2016/05/how-to-make-simple-pagination-using-php-mysql.html
 
-My blog : https://codetrycatch.com
+visit my blog : https://codetrycatch.com
