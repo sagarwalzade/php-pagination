@@ -19,7 +19,7 @@ $result = mysqli_query($connect, $query);
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Webslesson Tutorial | PHP Pagination with Next Previous First Last page Link</title>
+    <title>PHP Pagination with Next Previous First Last page Link</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
     <style>
         a {
